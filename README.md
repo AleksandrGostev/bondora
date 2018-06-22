@@ -6,8 +6,7 @@
  - node.js > v 6
  - mssql server express
 
-The solution is done using **.net core API** for backend and **reactjs** app for front-end
-API uses localdb sql server.
+The solution is done using **.net core API** for backend and **reactjs** app for front-end. API uses localdb sql server.
 
 # Installing
 *API*
