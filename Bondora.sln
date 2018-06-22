@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bondora", "Bondora\Bondora.csproj", "{1585922B-EFB1-47FF-B530-7ACC4A5E0DC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bondora.Tests", "Bondora.Tests\Bondora.Tests.csproj", "{F438E493-657B-498A-B30A-7B1FF7F960CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1585922B-EFB1-47FF-B530-7ACC4A5E0DC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1585922B-EFB1-47FF-B530-7ACC4A5E0DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1585922B-EFB1-47FF-B530-7ACC4A5E0DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1585922B-EFB1-47FF-B530-7ACC4A5E0DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F438E493-657B-498A-B30A-7B1FF7F960CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F438E493-657B-498A-B30A-7B1FF7F960CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F438E493-657B-498A-B30A-7B1FF7F960CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F438E493-657B-498A-B30A-7B1FF7F960CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {121C7640-4F7A-4737-A9CE-48EFAD4C14D9}
+	EndGlobalSection
+EndGlobal
